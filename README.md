@@ -12,7 +12,7 @@
 </div>
 
 <h3 align="center">Glad to see you here!</h3>  
-<p align="center" width="50%">I'm a Full Stack Web Developer from La Plata, Argentina. I'm 19 years old and I'm passionate about technology. My main stack is PERN (PostgreSQL, Express, React and NodeJS).</p>   
+<p align="center" width="50%">I'm a Full Stack Web Developer from La Plata, Argentina. I'm 20 years old and I'm passionate about technology. My main stack is PERN (PostgreSQL, Express, React and NodeJS).</p>   
   
 <h3 align="center">Languages and Tools</h3>  
 <div align="center">    
